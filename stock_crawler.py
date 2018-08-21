@@ -1,10 +1,3 @@
-test_stock.py
-Last week
-Fri. 7:32 pm
-
-You uploaded an item
-Text
-test_stock.py
 import time
 import twstock
 import colorama
